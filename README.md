@@ -5,3 +5,6 @@ Aquest programa en Python està dissenyat per treballar amb una SDK personalitza
 
 more info here:
 https://community.vottun.io/activities
+
+by
+https://twitter.com/CriptoLopes
