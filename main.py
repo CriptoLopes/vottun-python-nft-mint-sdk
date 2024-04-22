@@ -4,8 +4,8 @@ import config_data
 from vottun_nft_sdk import NFTSDK  
 
 #data
-p_recipient_address="0x5eF984d8B9cb4E665FE77525C55De8Cb34b00f72"   
-p_network="80001"
+p_recipient_address="<RECIPIENT>"   
+p_network="<NETWORK>"
 
 #functions
 def load_nfts_from_csv(file_path):
