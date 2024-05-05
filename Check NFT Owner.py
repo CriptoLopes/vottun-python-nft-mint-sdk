@@ -1,3 +1,8 @@
+# ================================================
+# Author: Antonio23
+# Description: Program to check NFT ownership
+# ================================================
+
 import requests
 
 def check_nft_ownership(contract_address, token_id, owner_address, app_id, api_key):
